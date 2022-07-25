@@ -1,0 +1,1 @@
+Requires all files to be placed in the root location
